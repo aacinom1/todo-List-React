@@ -2,7 +2,7 @@
   "name": "react-assignment-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aacinom1.github.io"
+  "homepage": "https://aacinom1.github.io",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
